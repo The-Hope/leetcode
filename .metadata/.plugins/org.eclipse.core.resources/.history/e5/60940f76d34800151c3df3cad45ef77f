@@ -1,0 +1,13 @@
+package com.hope.leetcode;
+
+public class Code1Test {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

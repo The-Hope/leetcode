@@ -1,0 +1,8 @@
+package com.hope.leetcode;
+
+public class Code1 {
+	public int maximumGap(int[] nums) {
+		//TODO
+        return 0;
+    }
+}
